@@ -15,7 +15,7 @@ This Survey Form is a simple and intuitive platform designed to collect user inf
 ### Links
 
 - Solution URL: (https://github.com/HKES-04/Survey-Form.git)
-- Live Site URL: (https://hkes-04.github.io/Fylo-Website/)
+- Live Site URL: (https://hkes-04.github.io/Survey-Form/)
 
 ## My process
 
